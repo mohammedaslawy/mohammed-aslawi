@@ -36,38 +36,38 @@ export const PROJECTS = [
     name: "Translating Designs",
     description: "Convert design mockups and prototypes into functional web pages using HTML, CSS, and JavaScrip",
     image: proj1,
-    link: "https://github.com/your-github/streamerzz",
+    link: "https://github.com/mohammedaslawy/mohammed-aslawi.git",
   },
   {
     name: "Performance Optimization",
     description: "Optimize web applications for speed and performance, including minimizing file sizes.",
     image: proj2,
-    link: "https://github.com/your-github/nutritrack",
+    link: "https://github.com/mohammedaslawy/mohammed-aslawi.git",
   },
   {
     name: "User Experience (UX)",
     description: "Implement best practices for web accessibility (WCAG) to ensure that applications are usable by people with disabilities.",
     image: pro3,
-    link: "https://github.com/your-github/hairrevive",
+    link: "https://github.com/mohammedaslawy/mohammed-aslawi.git",
   },
   {
     name: "Responsive Design",
     description:
       "Ensure that web applications look and function well on various devices and screen sizes (mobile, tablet, desktop)",
     image: proj4,
-    link: "https://github.com/your-github/devdeck",
+    link: "https://github.com/mohammedaslawy/mohammed-aslawi.git",
   },
   {
     name: "FitConnect",
     description: "Fitness social network to connect athletes and trainers",
     image: proj5,
-    link: "https://github.com/your-github/fitconnect",
+    link: "https://github.com/mohammedaslawy/mohammed-aslawi.git",
   },
   {
     name: "Staying Updated",
     description: "Keep up with the latest trends, tools, and technologies in front-end development.",
     image: projects6,
-    link: "https://github.com/your-github/wellnest",
+    link: "https://github.com/mohammedaslawy/mohammed-aslawi.git",
   },
 ];
 
@@ -170,7 +170,7 @@ export const CONTACT_CONTENT = {
     },
     {
       platform: "GitHub",
-      url: "https://github.com/yourprofile",
+      url: "https://github.com/mohammedaslawy",
       ariaLabel: "View my GitHub profile",
       icon: "RiGithubFill",
     },
